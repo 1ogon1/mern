@@ -1,6 +1,0 @@
-{
-  "port" : 5000,
-  "jwt": "1ogon1_secret",
-  "baseURL": "http://localhost:5000",
-  "mongoURI": "mongodb+srv://1ogon1:67QZYmwk@cluster0-wjysg.mongodb.net/app?retryWrites=true&w=majority"
-}
